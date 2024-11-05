@@ -1,0 +1,2 @@
+Hello this file is to learn git basics commands
+This is to see changes
